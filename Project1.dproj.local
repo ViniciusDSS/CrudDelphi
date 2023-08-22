@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/21 15:46:51.000.974,=C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/08/22 19:31:51.000.107,=C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/08/22 19:33:44.000.805,=C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/08/22 19:48:13.000.045,C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Pichau\Documents\Projetos\CadastroDelphi\CadastroDelphi\Unit4.pas</Transaction>
+    <Transaction>2023/08/22 19:48:13.000.045,C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\Pichau\Documents\Projetos\CadastroDelphi\CadastroDelphi\Unit4.dfm</Transaction>
+    <Transaction>2023/08/22 19:48:15.000.624,C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Pichau\Documents\Projetos\CadastroDelphi\CadastroDelphi\Unit3.pas</Transaction>
+    <Transaction>2023/08/22 19:48:15.000.624,C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Pichau\Documents\Projetos\CadastroDelphi\CadastroDelphi\Unit3.dfm</Transaction>
+    <Transaction>2023/08/22 19:48:17.000.946,C:\Users\Pichau\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Pichau\Documents\Projetos\CadastroDelphi\CadastroDelphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
